@@ -12,8 +12,7 @@
   - [State](/docs/state.md)
   - [View](/docs/view.md)
   - [Actions](/docs/actions.md)
-  - [Events](/docs/events.md)
-  - [Mixins](/docs/mixins.md)
+  - [Hooks](/docs/hooks.md)
   - [Root](/docs/root.md)
 - Concepts
   - [VNodes](/docs/vnodes.md)

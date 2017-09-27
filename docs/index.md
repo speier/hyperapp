@@ -6,7 +6,6 @@ Below is an alphabetical list of some of the terms and concepts used throughout 
 
 [app](/src/app.js)<br>
 [actions](/docs/actions.md)<br>
-[events.action](/docs/events.md#action)<br>
 [attributes](/docs/vnodes.md#attributes)<br>
 
 ## C
@@ -15,13 +14,12 @@ Below is an alphabetical list of some of the terms and concepts used throughout 
 
 ## E
 
-[emit](/docs/events.md#custom-events)<br>
-[events](/docs/events.md)<br>
 [events, VDOM](/docs/vdom-events.md)<br>
 
 ## H
 
 [h](/src/h.js)<br>
+[hooks](/docs/hooks.md)<br>
 [hyperx](/docs/hyperx.md)<br>
 [hyperxify](https://github.com/substack/hyperxify)<br>
 
@@ -33,18 +31,6 @@ Below is an alphabetical list of some of the terms and concepts used throughout 
 
 [keys](/docs/keys.md)<br>
 
-## L
-
-[events.load](/docs/events.md#load)<br>
-
-## M
-
-[mixins](/docs/mixins.md)<br>
-
-## N
-
-[namespaces](/docs/actions.md#namespaces)<br>
-
 ## O
 
 [oncreate](/docs/vdom-events.md#oncreate)<br>
@@ -54,8 +40,6 @@ Below is an alphabetical list of some of the terms and concepts used throughout 
 ## R
 
 [root](/docs/root.md)<br>
-[events.resolve](/docs/events.md#resolve)<br>
-[events.render](/docs/events.md#render)<br>
 
 ## S
 
@@ -65,11 +49,7 @@ Below is an alphabetical list of some of the terms and concepts used throughout 
 
 [thunks](/docs/actions.md#thunks)
 
-## U
-
-[events.update](/docs/events.md#eventsupdate)<br>
-
 ## V
 
 [view](/docs/view.md)<br>
-[vnode](/docs/vnodes.md)<br>
+[VNode](/docs/vnodes.md)<br>
